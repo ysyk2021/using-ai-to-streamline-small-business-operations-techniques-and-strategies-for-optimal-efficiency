@@ -1,5 +1,3 @@
-Supporting Continuous Learning and Improvement in Small Business Practice
-=======================================================================================================================================
 
 Continuous learning and improvement are critical for small business success, but can be challenging to achieve with limited resources and personnel. However, AI technology can support small businesses in their journey towards continuous learning and improvement.
 

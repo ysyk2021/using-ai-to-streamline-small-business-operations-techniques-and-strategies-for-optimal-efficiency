@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enabled Small Business Transformation
-========================================================================
 
 In this chapter, we will discuss how small businesses can get started with AI-enabled transformation. We will explore key steps for identifying business goals and objectives, selecting the right AI tools and platforms, and creating a customized roadmap for AI implementation in your small business strategy.
 

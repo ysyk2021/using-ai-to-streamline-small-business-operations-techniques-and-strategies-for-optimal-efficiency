@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the Impact of AI on Small Business Transformation
-=======================================================================
 
 Small businesses have always been the backbone of economies around the world. However, small business owners often face numerous challenges that hinder their growth and development. These issues typically include limited resources, tight budgets, and a lack of technical expertise in adopting new technologies - particularly AI.
 

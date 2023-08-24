@@ -1,5 +1,3 @@
-Identifying Key Performance Metrics and Goals for AI-Enabled Business Optimization
-===========================================================================================================================================================
 
 As small businesses implement AI technology to optimize their operations, it is important to evaluate the impact of these efforts using key performance metrics and goals. By measuring the impact of AI on small business transformation, owners can make informed decisions about future investments in AI technology.
 

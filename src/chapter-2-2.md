@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Small Business Practice
-===================================================================================================================================================
 
 In this chapter, we will explore different types of AI techniques and applications that can be used in small business practice. We will discuss the basic concepts of each technique and provide examples of their applications.
 

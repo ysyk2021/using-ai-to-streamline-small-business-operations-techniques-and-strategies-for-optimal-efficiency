@@ -1,5 +1,3 @@
-Identifying Your Business Goals and Objectives for Optimal Performance and Growth
-===========================================================================================================================================================
 
 In this chapter, we will explore how small businesses can get started with AI-enabled transformation by identifying their business goals and objectives for optimal performance and growth. We will discuss key considerations for identifying business goals and provide examples of common business goals that can be achieved through AI-enabled transformation.
 

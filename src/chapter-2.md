@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI Technology for Small Business Operations
-====================================================================
 
 In this chapter, we will provide an overview of AI technology for small business operations. We will explore basic concepts and processes of AI algorithms for business analysis and enhancement, different types of AI techniques and applications, and tools and platforms for AI-enabled business optimization.
 

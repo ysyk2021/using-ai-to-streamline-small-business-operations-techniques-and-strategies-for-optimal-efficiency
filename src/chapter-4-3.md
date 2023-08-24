@@ -1,5 +1,3 @@
-Improving Decision Making and Resource Allocation with AI-Enabled Data Analytics and Visualization
-=====================================================================================================================================================================================
 
 In this chapter, we will explore how small businesses can use artificial intelligence (AI) to improve decision making and resource allocation through data analytics and visualization. We will discuss a range of AI techniques and tools that can help small businesses make more informed decisions and optimize resource allocation.
 
