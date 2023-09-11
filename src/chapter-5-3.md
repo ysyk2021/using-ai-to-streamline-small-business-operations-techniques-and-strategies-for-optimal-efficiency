@@ -1,5 +1,4 @@
-Chapter 14: Nurturing Employee Engagement and Satisfaction with AI-Enabled Talent Management and Development
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can leverage AI to foster employee engagement, satisfaction, and professional development. AI technologies can play a crucial role in enhancing talent management processes and creating a more fulfilling work environment.
 

@@ -1,5 +1,4 @@
-Chapter 18: Streamlining Workflow and Operations with AI-Enabled Automation and Robotics
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative potential of AI-enabled automation and robotics in small business operations. By harnessing the power of AI-driven automation, businesses can optimize workflows, reduce costs, and enhance overall efficiency.
 

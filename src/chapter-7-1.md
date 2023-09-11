@@ -1,5 +1,4 @@
-Chapter 15: Measuring the ROI and Effectiveness of AI Implementation in Small Business Practice
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the crucial aspects of measuring the Return on Investment (ROI) and overall effectiveness of AI implementation in small business operations. Evaluating the impact of AI initiatives is essential for making informed decisions and optimizing efficiency.
 

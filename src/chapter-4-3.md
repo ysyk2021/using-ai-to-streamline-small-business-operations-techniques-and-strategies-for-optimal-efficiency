@@ -1,5 +1,4 @@
-Chapter 11: Improving Decision Making and Resource Allocation with AI-Enabled Data Analytics and Visualization
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can enhance decision-making processes and optimize resource allocation by harnessing the power of AI-enabled data analytics and visualization.
 

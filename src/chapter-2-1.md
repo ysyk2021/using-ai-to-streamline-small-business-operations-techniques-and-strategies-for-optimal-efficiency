@@ -1,5 +1,4 @@
-Chapter 13: Basic Concepts and Processes of AI Algorithms for Business Analysis and Enhancement
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will lay the foundation for understanding the fundamental concepts and processes of AI algorithms in the context of small business operations. These algorithms play a crucial role in analyzing data and enhancing various aspects of business processes.
 

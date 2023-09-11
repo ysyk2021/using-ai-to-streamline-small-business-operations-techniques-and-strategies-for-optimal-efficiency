@@ -1,5 +1,4 @@
-Chapter 20: Identifying Your Business Goals and Objectives for Optimal Performance and Growth
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial process of defining and aligning your business goals and objectives to achieve optimal performance and sustainable growth with AI. Clarifying your mission and vision is essential for effectively leveraging AI in small business operations.
 

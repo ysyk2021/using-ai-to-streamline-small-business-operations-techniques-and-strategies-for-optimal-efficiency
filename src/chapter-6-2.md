@@ -1,5 +1,4 @@
-Chapter 7: Supporting Continuous Learning and Improvement in Small Business Practice with AI
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can facilitate continuous learning and improvement, enabling small businesses to evolve, adapt, and maintain a competitive edge in their industries.
 

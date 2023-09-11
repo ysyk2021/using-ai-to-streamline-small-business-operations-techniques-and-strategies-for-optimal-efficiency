@@ -1,5 +1,4 @@
-Chapter 10: Enabling Small Businesses to Compete with Large Corporations and Innovate in Their Market with AI
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI can level the playing field for small businesses, empowering them to compete effectively with large corporations and fostering innovation in their respective markets.
 
